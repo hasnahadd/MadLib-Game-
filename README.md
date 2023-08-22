@@ -1,4 +1,4 @@
-# Soft MadLib Project
+# Welcome to SoftLib ♪ Project
 
 Welcome to the Soft MadLib project! This interactive web application allows you to create fun and imaginative stories while enjoying background sounds, interactive navigation, images, and more.
 
