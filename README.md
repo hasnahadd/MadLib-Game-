@@ -47,6 +47,5 @@ This project is licensed under the [Recoded bootcamp].
 
 ## Contact
 
-If you have any questions or feedback about the Soft MadLib project, please don't hesitate to reach out to us at [your@email.com](mailto:your@email.com).
-
+If you have any questions or feedback about the Soft MadLib project, please don't hesitate to reach out.
 Happy MadLibbing!🎉
