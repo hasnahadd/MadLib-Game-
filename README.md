@@ -24,6 +24,10 @@ Welcome to the Soft MadLib project! This interactive web application allows you 
 - The application is designed to be responsive, ensuring a seamless experience across different devices and screen sizes.
 - Whether you're using a desktop computer, tablet, or smartphone, you can enjoy the Soft MadLib app with ease.
 
+## Live Demo
+
+Check out the live demo of the Soft MadLib app [here](https://madlibs-nine.vercel.app/).
+
 ## Getting Started
 
 To get started with the Soft MadLib project, follow these steps:
